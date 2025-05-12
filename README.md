@@ -1,4 +1,4 @@
-Telegram Decision Bot 🤖
+<h1>Telegram Decision Bot 🤖</h1>
 
 Setup Instructions
 1. Create a Bot via BotFather
