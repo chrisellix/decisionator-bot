@@ -20,11 +20,11 @@ const BotToken = "123456789:ABCdefGhIjkLMNopQrstUVwxYZ"
 <h4>3. Install Telegram Bot API </h4>
 go get github.com/go-telegram-bot-api/telegram-bot-api/v5
 <hr>
-4. Run the Bot
+<h4>4. Run the Bot</h4>
 go run main.go
 
 <hr>
-<h4><5. Start Chatting</h4>
+<h4>5. Start Chatting</h4>
 Open your bot on Telegram
 
 Send /start
