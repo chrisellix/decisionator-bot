@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-const TOKEN = "7908084075:AAFo-E05orcfGSqjPk_Vfo0tZnTpU2saJLc"
+const TOKEN = "YOUR_BOT_TOKEN"
 
 var bot *tgbotapi.BotAPI
 
